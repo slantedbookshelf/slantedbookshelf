@@ -2,7 +2,7 @@
 
 
 
-# 你好，我是 SlantedBookshelf
+# 你好，我是 SlantedBookshelf(斜书架)
 
 ### AI Engineering | Java Backend | Full-stack Visualization
 
