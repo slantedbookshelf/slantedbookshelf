@@ -29,8 +29,8 @@ Product Experience
 
 | Channel | Link |
 | --- | --- |
-| Blog | TODO: https://slantedbookshelf.github.io/Blog |
-| Email | TODO: 13137112415@163.com |
+| Blog | Thttps://slantedbookshelf.github.io/Blog |
+| Email | 13137112415@163.com |
 
 <br />
 
